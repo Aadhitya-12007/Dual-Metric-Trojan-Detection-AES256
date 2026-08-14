@@ -41,6 +41,7 @@ Four distinct RTL-level hardware Trojans were synthesized into an AES-256 core (
 
 *   [`Manuscript/`](Manuscript/) - Final published paper.
 *   [`RTL_Source/`](RTL_Source/) - Golden AES-256 and infected Verilog source files.
+*   [`Testbenches/`](Testbenches/) - Testbenches for the Trojan-Free core and the infected cores.
 *   [`Synthesis_Netlists/`](Synthesis_Netlists/) - Post-synthesis netlists for the Versal architecture.
 *   [`Simulation_SAIF/`](Simulation_SAIF/) - Extracted switching activity files.
 *   [`Power_Reports/`](Power_Reports/) - Vivado vector-based power estimations.
