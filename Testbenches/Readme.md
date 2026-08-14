@@ -1,6 +1,6 @@
 # AES-256 Hardware Trojan Simulation & Testbench Suite
 
-Simulation testbenches, verification environments, and stimulus vectors used for vector-based power and switching activity analysis of golden and Trojan-infected AES-256 cores[cite: 2].
+Simulation testbenches, verification environments, and stimulus vectors used for vector-based power and switching activity analysis of golden and Trojan-infected AES-256 cores.
 
 ## Overview
 
