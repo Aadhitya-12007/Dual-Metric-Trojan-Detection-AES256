@@ -1,4 +1,4 @@
-# 💻 RTL Source Codes
+# RTL Source Codes
 
 This directory contains the Register Transfer Level (RTL) Verilog files used for the experimental testbed.
 
